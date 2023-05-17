@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Caroline-Mwangi
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
-- 📫 How to reach me cwmwangi50@gmail.com
+- 🌱 I’m currently learning Python and JavaScript
+- 📫 How to reach me -> cwmwangi50@gmail.com
 
 <!---
 Caroline-Mwangi/Caroline-Mwangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
